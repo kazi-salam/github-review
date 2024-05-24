@@ -9,4 +9,9 @@
 
 4. git workflow [add-commit-push]
 
-[computer <-> github]
+5. Merge conflict
+
+main branch --> index.html --> feature/skill2 branch --> index.html --> Python
+main branch --> index.html --> Java
+
+6. How to resolve merge conflict
